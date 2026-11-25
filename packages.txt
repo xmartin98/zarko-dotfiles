@@ -1,0 +1,11 @@
+eza
+bat
+tmux
+fzf
+btop
+ripgrep
+fd-find
+zoxide
+tealdeer
+git-delta
+fastfetch
